@@ -1,0 +1,40 @@
+# example 1
+5 2
+clear
+
+# example 2
+2 sqrt
+clear 9 sqrt
+clear
+
+# example 3
+5 2 -
+3 -
+clear
+
+# example 4
+5 4 3 2
+undo undo *
+5 *
+undo
+clear
+
+# example 5
+7 12 2 /
+*
+4 /
+clear
+
+# example 6
+1 2 3 4 5
+*
+clear 3 4 -
+clear
+
+# example 7
+1 2 3 4 5
+* * * *
+clear
+
+# example 8
+1 2 3 * 5 + * * 6 5
